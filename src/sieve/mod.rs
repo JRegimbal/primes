@@ -1,1 +1,2 @@
 mod atkin;
+mod eratosthenes;
