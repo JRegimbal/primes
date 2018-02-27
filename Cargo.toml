@@ -1,0 +1,6 @@
+[package]
+name = "primes"
+version = "0.1.0"
+authors = ["JRegimbal <juliette.regimbal@gmail.com>"]
+
+[dependencies]
